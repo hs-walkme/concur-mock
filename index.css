@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sap-blue: #0a6ed1;
+}
+
+body {
+  background-color: #f3f4f6;
+}
